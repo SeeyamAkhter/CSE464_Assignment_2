@@ -62,7 +62,7 @@ class _SecondPageState extends State<SecondPage> {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  const Text("Task One", style: TextStyle(fontSize: 16 , fontWeight: FontWeight.bold),),
+                  const Text("Task Two", style: TextStyle(fontSize: 16 , fontWeight: FontWeight.bold),),
                   const Text("Your personal task management and planning solution for "),
                   Align(
                     alignment: Alignment.centerRight,
@@ -87,7 +87,7 @@ class _SecondPageState extends State<SecondPage> {
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
-                  const Text("Task One", style: TextStyle(fontSize: 16 , fontWeight: FontWeight.bold),),
+                  const Text("Task Three", style: TextStyle(fontSize: 16 , fontWeight: FontWeight.bold),),
                   const Text("Your personal task management and planning solution for "),
                   Align(
                     alignment: Alignment.centerRight,
